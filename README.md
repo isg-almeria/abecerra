@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="assets/profile-picture.jpg" width="180" alt="Foto de perfil">
-  <h1><strong>[Antonio Becerra Terón - HEAD / Responsable grupo]</strong></h1>
+  <img src="assets/abecerra.jpeg" width="180" alt="Foto de perfil">
+  <h1><strong>Antonio Becerra Terón - HEAD / Responsable grupo</strong></h1>
 </p>
 
-<p align="center">
-  <strong>[Puesto / Academic Rank] · [Puesto en inglés]</strong><br>
-  [Grupo de Investigación / Research Group]<br>
-  [Universidad o Institución / University or Institution]<br>
-  [correo@ejemplo.es / email@example.com]
+<p align="center">  
+  <strong>Professor · Profesora Titular de Universidad</strong><br>
+  Information Systems Research Group · Grupo de Investigación en Sistemas de Información<br>
+  University of Almería · Universidad de Almería<br>
+  abecerra@ual.es
 </p>
 
 ---
