@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/abecerra.jpeg" width="180" alt="Foto de perfil">
-  <h1><strong>Antonio Becerra Terón -  Responsable grupo</strong></h1>
+  <h1><strong>Antonio Becerra Terón -  Responsable del grupo</strong></h1>
 </p>
 
 <p align="center">  
